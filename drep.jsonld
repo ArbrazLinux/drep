@@ -65,8 +65,8 @@
         "givenName": "Breizh DRep [BZH]",
         "image": {
             "@type": "ImageObject",
-            "contentUrl": "https://breizhstakepool.io/src/hermine.png",
-            "sha256": "ee4d12dab4f5154585eb2a648a81b6d26786f09f3eab2807eef7ed34202598de"
+            "contentUrl": "https://raw.githubusercontent.com/ArbrazLinux/drep/refs/heads/main/hermine.png",
+            "sha256": "39b58fba31245b34b7b444a7ff9e3dfa51b6a1a926f2fb369831284d4cda3190"
         },
 	"doNotList": false,
         "objectives": "Contribute to and promote Cardano's decentralization and adoption.\nPromouvoir et contribuer à l'adoption et à la décentralisation de Cardano.",
